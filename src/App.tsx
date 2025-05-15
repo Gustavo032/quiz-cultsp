@@ -54,7 +54,7 @@ function App() {
               mb: 3
             }}
           >
-            🎭 Quiz Cultural EMLTC
+            🎭 Quiz Cultural CultSP
           </Typography>
 
           {!started ? (
