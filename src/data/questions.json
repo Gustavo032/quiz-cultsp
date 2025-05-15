@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "text": "Você se sente confortável se expressando artisticamente para outras pessoas?",
+    "weights": { "artes": 2, "design": 1 }
+  },
+  {
+    "id": 2,
+    "text": "Você tem interesse em cenografia, produção de eventos ou bastidores de espetáculos?",
+    "weights": { "artes": 2, "inovação": 1 }
+  },
+  {
+    "id": 3,
+    "text": "Você gostaria de preservar a história da sua cidade ou trabalhar com museus?",
+    "weights": { "patrimônios": 2, "inovação": 1 }
+  },
+  {
+    "id": 4,
+    "text": "Você gosta de criar vídeos, filmes, ou jogar e pensar em como um game é feito?",
+    "weights": { "audiovisual": 2, "design": 1 }
+  },
+  {
+    "id": 5,
+    "text": "Você curte desenhar, ilustrar, tirar fotos ou criar algo visual?",
+    "weights": { "design": 2 }
+  },
+  {
+    "id": 6,
+    "text": "Você já pensou em empreender com algo cultural ou social?",
+    "weights": { "inovação": 2 }
+  },
+  {
+    "id": 7,
+    "text": "Você se interessa por moda sustentável, costura ou estilo com propósito?",
+    "weights": { "tradições": 2, "design": 1 }
+  },
+  {
+    "id": 8,
+    "text": "Você tem curiosidade em cozinhar pratos típicos ou conhecer tradições alimentares?",
+    "weights": { "tradições": 2 }
+  },
+  {
+    "id": 9,
+    "text": "Você se vê ensinando, liderando projetos ou criando impacto social através da cultura?",
+    "weights": { "inovação": 2, "patrimônios": 1 }
+  },
+  {
+    "id": 10,
+    "text": "Você se envolve facilmente com ações de preservação da cultura popular?",
+    "weights": { "patrimônios": 2, "tradições": 1 }
+  },
+  {
+    "id": 11,
+    "text": "Você é mais criativo quando trabalha com imagens e estética?",
+    "weights": { "design": 2, "audiovisual": 1 }
+  },
+  {
+    "id": 12,
+    "text": "Você se anima com a ideia de desenvolver uma startup ou projeto cultural inovador?",
+    "weights": { "inovação": 2 }
+  },
+  {
+    "id": 13,
+    "text": "Você gosta de atuar, dançar, cantar ou estar no palco?",
+    "weights": { "artes": 2 }
+  },
+  {
+    "id": 14,
+    "text": "Você se interessa por tecnologias como realidade virtual, edição de vídeo ou som?",
+    "weights": { "audiovisual": 2 }
+  },
+  {
+    "id": 15,
+    "text": "Você sente que cultura e tradição são formas importantes de manter sua identidade viva?",
+    "weights": { "tradições": 2, "patrimônios": 1 }
+  }
+]
